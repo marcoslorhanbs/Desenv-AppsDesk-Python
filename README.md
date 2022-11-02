@@ -14,10 +14,12 @@
   </img>
 </div>
 
+
+
 <div align="center">
   <h4>Links Uteis:</h4>
-  <a href="https://www.python.org/downloads/" target="_blank">Baixe o Python</a> <br>
-  <a href="https://sqlitebrowser.org/dl/" target="_blank">Baixe o DB Browser</a>
+  <a href="https://www.python.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/Download-Python-blue"></img></a> <br>
+  <a href="https://sqlitebrowser.org/dl/" target="_blank"><img src="https://img.shields.io/badge/Download-DBBrowser-orange"></img></a>
 </div>
 
 <h3 align="center">Ministrante: Marcos Lorhan Martins Santos</h3>
