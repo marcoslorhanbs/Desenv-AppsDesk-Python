@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <h1 align="center">Desenvolvimento de Aplicações Desktop com Python</h1>
-<p align="center">Repositorio para o mini curso de Desenvolvimento de Aplicações Desktop que acontecerá no III Sertão Comp</p>
+<p align="center">Repositorio para o mini curso de Tkinter que acontecerá no III Sertão Comp</p>
 
 <div align="center"> 
   <h2>Tecnologias que serão utilizadas</h2>
